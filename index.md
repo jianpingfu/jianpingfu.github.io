@@ -24,5 +24,5 @@ Aside from acdemic research, I'm alse interested in Bitcoin and blockchain techn
 * 理工大学[SCI检索](http://lib.tjut.edu.cn/lib/Sub.html#!Module/Resource/Type/Show/ColumnId/badbdf31-0d02-445a-a544-4b6bba8b004f/ItemId/b77e857c-439d-4ad0-b246-7a26161c98ea)
 * SoFiE [Fellows](https://sofie.stern.nyu.edu/node/520)
 * IAQF [Financial engineer of the year](https://en.wikipedia.org/wiki/International_Association_for_Quantitative_Finance#Financial_Engineer_of_the_Year_(FEOY))
-* [Winners}(https://en.wikipedia.org/wiki/Louis_Bachelier_Prize) of Louis Bachelier Prize
+* [Winners](https://en.wikipedia.org/wiki/Louis_Bachelier_Prize) of Louis Bachelier Prize
 * BFS [executive committee](http://www.bachelierfinance.org/society/committee.html) and [council](http://www.bachelierfinance.org/society/council.html)

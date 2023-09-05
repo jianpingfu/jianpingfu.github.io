@@ -1,2 +1,3 @@
-# jianpingfu.github.io
-This is Jianping Fu's personal website
+# schrodingerfu.github.io
+
+Hi, this is my personal website, hope you like it.
